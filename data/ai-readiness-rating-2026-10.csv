@@ -1,0 +1,101 @@
+checked_at,category,service,domain,opened_for_check,not_opened_reason,ai_readiness_score,grade,ai_search_bots_blocked,llms_txt,main_text_without_js,organization_schema
+2026-10-27,CRM,HubSpot,hubspot.com,yes,,87,A,0,yes,yes,partly
+2026-10-27,CRM,Close,close.com,yes,,86,A,0,yes,yes,partly
+2026-10-27,CRM,monday.com,monday.com,yes,,75,B,0,yes,partly,partly
+2026-10-27,CRM,Salesforce,salesforce.com,yes,,69,B,2,yes,yes,partly
+2026-10-27,CRM,Copper,copper.com,yes,,69,B,0,yes,yes,no
+2026-10-27,CRM,Bitrix24,bitrix24.com,yes,,67,B,0,no,yes,no
+2026-10-27,CRM,amoCRM,amocrm.ru,yes,,51,C,0,no,partly,no
+2026-10-27,CRM,Pipedrive,pipedrive.com,no,"bot challenge (HTTP 403, Cloudflare)",,,,,,
+2026-10-27,CRM,Zoho,zoho.com,no,"no readable content for automated requests (HTTP 200, Cloudflare)",,,,,,
+2026-10-27,CRM,Freshworks,freshworks.com,no,"bot challenge (HTTP 403, Cloudflare)",,,,,,
+2026-10-27,Website and store builders,Webflow,webflow.com,yes,,85,A,0,yes,partly,yes
+2026-10-27,Website and store builders,BigCommerce,bigcommerce.com,yes,,85,A,0,yes,yes,partly
+2026-10-27,Website and store builders,Shopify,shopify.com,yes,,84,B,1,yes,partly,partly
+2026-10-27,Website and store builders,WooCommerce,woocommerce.com,yes,,84,B,0,yes,partly,partly
+2026-10-27,Website and store builders,Squarespace,squarespace.com,yes,,82,B,0,yes,partly,partly
+2026-10-27,Website and store builders,Framer,framer.com,yes,,79,B,0,yes,yes,partly
+2026-10-27,Website and store builders,Ecwid,ecwid.com,yes,,74,B,0,no,partly,partly
+2026-10-27,Website and store builders,InSales,insales.ru,yes,,67,B,0,no,yes,no
+2026-10-27,Website and store builders,Wix,wix.com,yes,,64,C,0,no,yes,no
+2026-10-27,Website and store builders,Tilda,tilda.cc,yes,,56,C,0,no,yes,no
+2026-10-27,Email marketing,GetResponse,getresponse.com,yes,,91,A,0,yes,partly,yes
+2026-10-27,Email marketing,Klaviyo,klaviyo.com,yes,,82,B,3,yes,yes,partly
+2026-10-27,Email marketing,MailerLite,mailerlite.com,yes,,81,B,1,yes,yes,partly
+2026-10-27,Email marketing,SendPulse,sendpulse.com,yes,,78,B,0,yes,yes,partly
+2026-10-27,Email marketing,Moosend,moosend.com,yes,,76,B,1,yes,partly,partly
+2026-10-27,Email marketing,Mailchimp,mailchimp.com,yes,,74,B,0,yes,yes,partly
+2026-10-27,Email marketing,Unisender,unisender.com,yes,,69,B,6,no,yes,partly
+2026-10-27,Email marketing,Brevo,brevo.com,yes,,58,C,1,yes,partly,no
+2026-10-27,Email marketing,Kit,kit.com,no,"bot challenge (HTTP 403, Cloudflare)",,,,,,
+2026-10-27,Email marketing,ActiveCampaign,activecampaign.com,no,"bot challenge (HTTP 403, Cloudflare)",,,,,,
+2026-10-27,Online learning,Coursera,coursera.org,yes,,85,A,0,yes,yes,partly
+2026-10-27,Online learning,Skillbox,skillbox.ru,yes,,80,B,0,no,yes,yes
+2026-10-27,Online learning,edX,edx.org,yes,,77,B,0,yes,partly,partly
+2026-10-27,Online learning,Preply,preply.com,yes,,77,B,1,yes,partly,yes
+2026-10-27,Online learning,Yandex Practicum,practicum.yandex.ru,yes,,62,C,0,no,yes,no
+2026-10-27,Online learning,Stepik,stepik.org,yes,,41,D,0,no,partly,no
+2026-10-27,Online learning,Duolingo,duolingo.com,yes,,32,D,0,no,partly,no
+2026-10-27,Online learning,Udemy,udemy.com,no,"bot challenge (HTTP 403, Cloudflare)",,,,,,
+2026-10-27,Online learning,Skillshare,skillshare.com,no,"bot challenge (HTTP 403, Cloudflare)",,,,,,
+2026-10-27,Online learning,Codecademy,codecademy.com,no,"bot challenge (HTTP 403, Cloudflare)",,,,,,
+2026-10-27,Booking and scheduling,SimplyBook.me,simplybook.me,yes,,92,A,0,yes,yes,partly
+2026-10-27,Booking and scheduling,Calendly,calendly.com,yes,,85,A,1,yes,yes,partly
+2026-10-27,Booking and scheduling,YouCanBookMe,youcanbook.me,yes,,85,A,1,yes,partly,partly
+2026-10-27,Booking and scheduling,Setmore,setmore.com,yes,,76,B,0,yes,yes,no
+2026-10-27,Booking and scheduling,Fresha,fresha.com,yes,,67,B,0,no,partly,partly
+2026-10-27,Booking and scheduling,Cal.com,cal.com,yes,,63,C,1,yes,yes,no
+2026-10-27,Booking and scheduling,Acuity Scheduling,acuityscheduling.com,yes,,63,C,0,no,partly,no
+2026-10-27,Booking and scheduling,Booksy,booksy.com,yes,,60,C,18,yes,yes,partly
+2026-10-27,Booking and scheduling,DIKIDI,dikidi.net,yes,,51,C,5,no,yes,no
+2026-10-27,Booking and scheduling,YCLIENTS,yclients.com,yes,,51,C,9,no,partly,no
+2026-10-27,Hosting and cloud,Netlify,netlify.com,yes,,93,A,0,yes,yes,yes
+2026-10-27,Hosting and cloud,Vercel,vercel.com,yes,,87,A,0,yes,partly,yes
+2026-10-27,Hosting and cloud,Hostinger,hostinger.com,yes,,86,A,2,yes,yes,partly
+2026-10-27,Hosting and cloud,Timeweb Cloud,timeweb.cloud,yes,,83,B,1,yes,yes,yes
+2026-10-27,Hosting and cloud,Beget,beget.com,yes,,82,B,0,no,yes,yes
+2026-10-27,Hosting and cloud,DigitalOcean,digitalocean.com,yes,,66,B,1,no,partly,no
+2026-10-27,Hosting and cloud,Render,render.com,yes,,59,C,0,yes,partly,partly
+2026-10-27,Hosting and cloud,Hetzner,hetzner.com,yes,,57,C,0,no,partly,no
+2026-10-27,Hosting and cloud,REG.RU,reg.ru,yes,,22,E,0,no,no,no
+2026-10-27,Hosting and cloud,Bluehost,bluehost.com,no,"captcha page (HTTP 403, Cloudflare)",,,,,,
+2026-10-27,Tasks and projects,Atlassian (Jira),atlassian.com,yes,,86,A,0,yes,yes,yes
+2026-10-27,Tasks and projects,ClickUp,clickup.com,yes,,83,B,0,yes,partly,yes
+2026-10-27,Tasks and projects,YouGile,yougile.com,yes,,80,B,0,yes,yes,partly
+2026-10-27,Tasks and projects,Notion,notion.com,yes,,79,B,3,yes,partly,partly
+2026-10-27,Tasks and projects,Wrike,wrike.com,yes,,77,B,8,yes,yes,partly
+2026-10-27,Tasks and projects,Asana,asana.com,yes,,70,B,0,no,yes,partly
+2026-10-27,Tasks and projects,Linear,linear.app,yes,,70,B,0,yes,yes,no
+2026-10-27,Tasks and projects,Basecamp,basecamp.com,yes,,69,B,0,no,yes,no
+2026-10-27,Tasks and projects,Kaiten,kaiten.ru,yes,,61,C,0,no,yes,no
+2026-10-27,Tasks and projects,Trello,trello.com,yes,,45,C,0,no,partly,no
+2026-10-27,Payments,Checkout.com,checkout.com,yes,,85,A,0,yes,partly,partly
+2026-10-27,Payments,Adyen,adyen.com,yes,,84,B,0,yes,yes,partly
+2026-10-27,Payments,Stripe,stripe.com,yes,,81,B,0,yes,yes,partly
+2026-10-27,Payments,YooKassa,yookassa.ru,yes,,75,B,0,no,yes,partly
+2026-10-27,Payments,PayPal,paypal.com,yes,,71,B,0,yes,partly,partly
+2026-10-27,Payments,Paddle,paddle.com,yes,,70,B,0,no,partly,partly
+2026-10-27,Payments,Wise,wise.com,yes,,64,C,1,no,yes,partly
+2026-10-27,Payments,Lemon Squeezy,lemonsqueezy.com,yes,,61,C,1,no,partly,no
+2026-10-27,Payments,CloudPayments,cloudpayments.ru,yes,,55,C,0,no,partly,no
+2026-10-27,Payments,Revolut,revolut.com,no,connection timeout,,,,,,
+2026-10-27,SEO and AI visibility,Serpstat,serpstat.com,yes,,86,A,0,yes,partly,partly
+2026-10-27,SEO and AI visibility,Semrush,semrush.com,yes,,84,B,0,yes,partly,yes
+2026-10-27,SEO and AI visibility,Otterly.AI,otterly.ai,yes,,84,B,0,yes,partly,partly
+2026-10-27,SEO and AI visibility,Moz,moz.com,yes,,79,B,1,no,partly,partly
+2026-10-27,SEO and AI visibility,SE Ranking,seranking.com,yes,,77,B,0,no,partly,partly
+2026-10-27,SEO and AI visibility,Screaming Frog,screamingfrog.co.uk,yes,,70,B,1,no,partly,partly
+2026-10-27,SEO and AI visibility,Ahrefs,ahrefs.com,yes,,67,B,0,no,partly,partly
+2026-10-27,SEO and AI visibility,Profound,tryprofound.com,yes,,66,B,1,no,yes,partly
+2026-10-27,SEO and AI visibility,Peec AI,peec.ai,yes,,61,C,0,no,partly,no
+2026-10-27,SEO and AI visibility,Similarweb,similarweb.com,no,connection timeout,,,,,,
+2026-10-27,AI tools,ElevenLabs,elevenlabs.io,yes,,91,A,0,yes,yes,partly
+2026-10-27,AI tools,Jasper,jasper.ai,yes,,85,A,0,yes,partly,partly
+2026-10-27,AI tools,DeepL,deepl.com,yes,,80,B,1,no,partly,partly
+2026-10-27,AI tools,Mistral AI,mistral.ai,yes,,78,B,0,yes,partly,partly
+2026-10-27,AI tools,Anthropic,anthropic.com,yes,,67,B,1,no,yes,no
+2026-10-27,AI tools,Copy.ai,copy.ai,yes,,66,B,0,no,yes,no
+2026-10-27,AI tools,Grammarly,grammarly.com,yes,,65,B,0,no,partly,no
+2026-10-27,AI tools,OpenAI,openai.com,no,"bot challenge (HTTP 403, Cloudflare)",,,,,,
+2026-10-27,AI tools,Perplexity,perplexity.ai,no,"no readable content for automated requests (HTTP 200, Cloudflare)",,,,,,
+2026-10-27,AI tools,Midjourney,midjourney.com,no,"bot challenge (HTTP 403, Cloudflare)",,,,,,
